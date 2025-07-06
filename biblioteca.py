@@ -49,7 +49,7 @@ class Biblioteca:
         print(f"Libro '{libro.titulo}' añadido a la biblioteca.")
 
     def mostrar_libros(self):
-        # Muestra todos los libros del catálogo
+        # Muestra tod2os los libros del catálogo
         if not self.catalogo:
             print("La biblioteca está vacía.")
         else:
